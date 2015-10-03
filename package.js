@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'lookback:tooltips',
+  name: 'aknudsen:tooltips',
   summary: 'Reactive tooltips.',
-  version: '0.5.1',
-  git: 'https://github.com/lookback/meteor-tooltips.git'
+  version: '0.5.2',
+  git: 'https://github.com/aknuds1/meteor-tooltips.git'
 });
 
 Package.on_use(function(api) {
